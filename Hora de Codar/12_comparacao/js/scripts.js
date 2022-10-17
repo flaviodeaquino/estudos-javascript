@@ -26,5 +26,5 @@ if(20 > 10) {
 }
 
 if(10<20) {
-    console.log("Passou 2")
+    console.log("Passou 13")
 }
